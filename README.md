@@ -1,6 +1,6 @@
 - 🌍 Greetings, earthlings!
 - 🏷️ My name is SpaceRob.
-- 🤖 I see myself as a Robot or mechanical being, but ironically I have no knowledge of coding whatsoever.
+- 🤖 I see myself as a Robot or mechanical being, ironically though I can't code.
 - 🍋 Also I like lemons. :D
 
 <!---
